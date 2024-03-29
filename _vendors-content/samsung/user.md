@@ -1,4 +1,4 @@
----
+<a href="https://dontkillmyapp.com/samsung"><img id="badge-shareable" width="306px" src="https://dontkillmyapp.com/badge/samsung3.svg"></a>--
 manufacturer: samsung
 
 ---
